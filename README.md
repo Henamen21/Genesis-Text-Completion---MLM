@@ -37,7 +37,14 @@ path = 'your_path"
 model.save_pretrained(your_path')
 tokenizer.save_pretrained(your_path)
 ```
+## Load your model and tokenizer
+```bash
 
+path = 'your_path"
+
+model = AutoModelForMaskedLM.from_pretrained(your_path)
+tokenizer = BertTokenizerFast.from_pretrained(your_path)
+```
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
