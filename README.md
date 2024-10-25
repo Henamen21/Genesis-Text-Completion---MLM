@@ -29,6 +29,15 @@ Use [Hugging Face](https://huggingface.co/models) to download models for pretrai
 pip install transformer
 ```
 
+## Save your model and tokenizer
+```bash
+
+path = 'your_path"
+
+model.save_pretrained(your_path')
+tokenizer.save_pretrained(your_path)
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
