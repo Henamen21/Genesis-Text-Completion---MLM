@@ -28,6 +28,12 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/henok-solomon-a3b537206">LinkedIn</a>
+
+<a href="https://medium.com/@heneyr24">Medium</a>
+# 
 
 
 ## License
