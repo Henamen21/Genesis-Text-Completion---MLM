@@ -8,8 +8,16 @@ I created a Project on Masked Language Model. It is domain focused on Genesis bo
 MLM is used for training transformer-based language models. This approach is known as Filtering mask. 
 
 For example, the sentence 
-"The cat sat on the mat" might be transformed to 
-"The [MASK] sat on the [MASK]".
+```bash
+"The cat sat on the mat" 
+```
+
+might be transformed to 
+
+```bash
+"The [MASK] sat on the [MASK]"
+```
+
 
 The objective of this model is to predict original words which masked intentionally. 
 
